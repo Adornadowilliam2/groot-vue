@@ -49,7 +49,7 @@ export default {
       <h3 class="font-bold">Adult Groot</h3>
     </div>
   </main>
-  <section>
+  <section class="p-4">
     <h2 class="text-center text-3xl mb-2">Contact Us</h2>
     <form action="" class="border-[2px] rounded-lg p-2 w-[300px] block m-auto">
       <div>
