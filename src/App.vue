@@ -49,9 +49,9 @@ export default {
       <h3 class="font-bold">Adult Groot</h3>
     </div>
   </main>
-  <section class="p-4">
+  <section class="p-[20px]">
     <h2 class="text-center text-3xl mb-2">Contact Us</h2>
-    <form action="" class="border-[2px] rounded-lg p-2 w-[300px] block m-auto">
+    <form action="" class="border-[2px] rounded-lg p-2 block m-auto">
       <div>
         <label for="username" class="block">Username:</label>
         <input type="text" id="username" class="border-[2px] rounded-lg p-2 w-[100%]" placeholder="Enter your username" />
